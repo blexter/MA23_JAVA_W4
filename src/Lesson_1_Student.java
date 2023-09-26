@@ -1,6 +1,6 @@
 public class Lesson_1_Student extends Lesson_1_Person {
-    int grade;
-    int startYear;
+    private int grade;
+    private int startYear;
 
     public Lesson_1_Student(String name) {
         super(name);
